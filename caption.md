@@ -1,4 +1,4 @@
-# How to caption files in Slack
+# How to caption images in Slack
 
 1. Install the Pixi Slack app.
 1. Invite `@pixi` into a Slack channel (`/invite @pixi`).
