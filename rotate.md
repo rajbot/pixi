@@ -1,4 +1,4 @@
-# How to rotate files in Slack
+# How to rotate images in Slack
 
 1. Install the Pixi Slack app.
 1. Invite `@pixi` into a Slack channel (`/invite @pixi`).
